@@ -1,6 +1,7 @@
 # README
+#DMM WEBCAMP コンテンツ Railsを学ぼう2〜5章
 
-This README would normally document whatever steps are necessary to get the
+This READMEwould normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
