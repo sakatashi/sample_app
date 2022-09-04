@@ -1,25 +1,12 @@
-# README
-#DMM WEBCAMP コンテンツ Railsを学ぼう2〜5章
+# sample_app
+DMM WEBCAMP コンテンツ アプリケーションを完成させよう1~10章
 
-This READMEwould normally document whatever steps are necessary to get the
-application up and running.
+webアプリケーションには欠かせない機能の開発の仕方について学びました。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 実装機能
+* 投稿機能
+* 一覧・詳細画面表示
+* 編集機能
+* 画像投稿機能
+* 削除機能
+* バリデーション設定
